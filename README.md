@@ -3,7 +3,7 @@ Collection of Flash Games (circa 2014-2016) made as part of the Game Design prog
 
 <ul>
   <li>Arctan - 2D Tower Defense-Style Shooter</li>
-  <li>Beard Quest - 2D Top-Down RPG (NO HEALTH VERSION)</li>
+  <li>Beard Quest - 2D Top-Down RPG (NO HEALTH VERSION included)</li>
   <li>ShEWtER - Point & Click Arcade-Style Shooter</li>
   <li>Elusion - Side-Scrolling Shooter</li>
   <li>Cephalic Void - Top-Down Puzzler</li>
